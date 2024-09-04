@@ -23,3 +23,7 @@ function newBranchFeature(){
 function newBranchFeatureA(){
     console.log("Feature A added");
 }
+
+function newBranchFeatureB(){
+    console.log("Feature B added");
+}

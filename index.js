@@ -19,3 +19,7 @@ function greetPerson(){
 function newBranchFeature(){
     console.log("This is a new feature added in new-branch");
 }
+
+function newBranchFeatureA(){
+    console.log("Feature A added");
+}

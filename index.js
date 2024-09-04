@@ -11,3 +11,7 @@ function getName(){
 function isAdult(){
     return age>=18;
 }
+
+function greetPerson(){
+    console.log(`Hello ${name_my}`);
+}

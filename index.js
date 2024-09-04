@@ -15,3 +15,7 @@ function isAdult(){
 function greetPerson(){
     console.log(`Hello ${name_my}`);
 }
+
+function newBranchFeature(){
+    console.log("This is a new feature added in new-branch");
+}
